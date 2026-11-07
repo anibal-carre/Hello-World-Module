@@ -6,7 +6,6 @@ The purpose of creating this software is to practice basic programming concepts 
 
 This project also helps me become more familiar with Visual Studio Code, Node.js, and the process of developing and running software.
 
-[Software Demo Video](https://youtu.be/muFHdE5KV84?si=JQaZDDLtW9cwn54S)
 
 # Development Environment
 
